@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <title>Flexboxテスト</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+<div class="flex-cotainer">
+    <div class="wrapper">
+        <header>ヘッダー</header>
+ 
+        <div class="flex-items">
+            <div class="content1">
+                <h1>サイドバー</h1>
+            </div>
+            <div class="content2">
+                <h1>コンテンツエリア</h1>
+            </div>
+        </div>
+ 
+        <footer>フッター</footer>
+    </div>
+</div>
+</body>
+</html>
